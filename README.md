@@ -2,10 +2,11 @@
 General tools to use in various Data Science and Machine Learning Projects.
 
 #### Available tools:
-- **[SuperClassfTemplate:](https://github.com/Joao-M-Almeida/DataScienceTools/blob/master/SupervisedClassificationTemplate.ipynb)** a Supervised Classification scritpt to test various of the scikit-learn classifiers and analyze results;
+- **[SuperClassfTemplate:](https://github.com/Joao-M-Almeida/DataScienceTools/blob/master/SupervisedClassificationTemplate.ipynb)** a Supervised Classification ipython notebook to test various of the scikit-learn classifiers and analyze results;
 
 #### Tools to create:
--
+- **RegressionTemplate:** a ipython notebook to test and analyze different regression models available in scikit-learn;
+- **ClusteringTemplate:** a ipython notebook to test and analyze different clustering and unsupervised learning techiniques from scikit-learn;
 
 #### Possible improvements:
 - **For SuperClassfTemplate:**
