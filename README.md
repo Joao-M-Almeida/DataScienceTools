@@ -11,8 +11,8 @@ General tools to use in various Data Science and Machine Learning Projects.
 #### Possible improvements:
 - **For SuperClassfTemplate:**
   - Analyze results of Decision trees like [this](http://scikit-learn.org/stable/modules/tree.html#classification);  
-  - Fine tuning of parameters using GridSearch;
-  - Add feature selection methods;
-  - Add ensembling methods;
+  - Fine tuning of parameters using Random GridSearch for larger problems;
+  - Add more feature extraction and selection methods;
+  - Add more ensembling methods;
 
 Contribuitions are welcomed!
